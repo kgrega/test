@@ -1,1 +1,3 @@
 # test
+This is testfile for try "git" commands.
+Nothing more...
